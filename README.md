@@ -1,16 +1,3 @@
 # Airport
 
-Vliegen enzo
-
-#### Service list
-| Service | Port  | Done |
-|--|--|--|
-| BaggageManagement | 3001 | - [ ] |
-| BorderManagement | 3002 |- [ ] |
-| CheckinManagement | 3003 | - [ ] |
-| ControlManagement | 3004 | - [ ] |
-| FinancialManagement | 3005 | - [ ] |
-| FlightManagement | 3006 | - [ ] |
-| MatrixManagement | 3007 | - [ ] |
-| SecurityManagement | 3008 | - [ ] |
-| SpaceManagement | 3009 | - [ ] |
+This project is a simple Docker-based airport application build using a microservices architecture. This was made for a school assignment. All the different APIs can be reached by running Docker, and then navigating to localhost:3001, 3002, and so on.
